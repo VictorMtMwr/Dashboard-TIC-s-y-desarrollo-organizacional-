@@ -1,0 +1,26 @@
+# Dashboard Bibliométrico Avanzado - Requirements
+
+# Core Data Processing
+pandas
+numpy
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# Dashboard Framework
+streamlit
+
+# Network Analysis
+networkx
+pyvis
+
+# Text Analysis
+wordcloud
+
+# Machine Learning
+scikit-learn
+
+# Additional Dependencies
+Pillow
